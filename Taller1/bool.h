@@ -4,6 +4,6 @@
 
 typedef enum {False, True} boolean;
 
-
+prueba
 
 #endif // BOOL_H_INCLUDED
