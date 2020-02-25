@@ -2,3 +2,9 @@
 1582599648 source:/media/juanpa1/DATOS LINUX/REPOS/Taller1-2020/Taller1/main.cpp
 	<iostream>
 
+1582600384 source:/media/juanpa1/DATOS LINUX/REPOS/Taller1-2020/Taller1/bool.cpp
+	"bool.h"
+
+1582600384 /media/juanpa1/DATOS LINUX/REPOS/Taller1-2020/Taller1/bool.h
+	<stdio.h>
+
