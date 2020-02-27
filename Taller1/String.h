@@ -13,5 +13,6 @@ void strcop (string &s1, string s2);
 void scan(string &s);
 void print(string s);
 boolean streq(string s1, string s2);
+void guardar_string(string d, string &e)
 
 #endif // STRING_H_INCLUDED

@@ -67,3 +67,16 @@ boolean streq(string s1,string s2) {
 	return iguales; 
 	}
 
+void guardar_string(string d, string &e){
+    
+    int i = 0;
+    strcrear(e);
+    strlar(d);
+    e= new char [strlar(d)];
+    while(d[i]!=' '){
+        e[i]=d[i];
+        i++;
+        } 
+    
+}
+
