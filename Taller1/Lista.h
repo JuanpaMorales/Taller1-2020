@@ -2,6 +2,12 @@
 #define LISTA_H_INCLUDED
 #include "String.h"
 
+typedef struct {
+	string expre;
+	abb *alfa;
+	
+	}expresion;
+
 
 typedef struct nodob{string beta;
 nodob *sig
@@ -9,7 +15,7 @@ nodob *sig
 
 typedefe nodoe *listring
 
-typedef struct NodoA{expresión info;
+typedef struct NodoA{expresion info;
 nodoa *sig;
 }nodo;
 
@@ -22,6 +28,7 @@ int Miniter (lista l);
 int MaximoIter (lista l);
 boolean PerteneceRecu (lista L, expresion e);
 void agregar_expresion(lista &l, expresion e);
+nodo encontrar_expresion(string s, lista r);
 
 
 
